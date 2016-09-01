@@ -1,0 +1,18 @@
+layout_spectrum: 0.0944380178116262
+typography_spectrum: 0.784971289569512
+color:
+  brandStrength: 0.8166633408982307
+  lightness: 0.42249179794453084
+  saturation: 0.6355709170456976
+  rhythmicContrast: 0.24647698760963976
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: penfiend
+navigation:
+  - name: about
+    url: www.penfiend.com
+    type: external
