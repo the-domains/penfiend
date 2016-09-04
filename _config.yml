@@ -12,7 +12,3 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 name: penfiend
-navigation:
-  - name: about
-    url: www.penfiend.com
-    type: external
